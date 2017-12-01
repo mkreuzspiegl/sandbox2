@@ -1,6 +1,6 @@
 use strict;
 use warnings;
 
-my $var = "world";
+my $var = "WORLD";
 
 print "Hello $var!";
